@@ -1,0 +1,10 @@
+__pycache__
+.vscode
+*.ini
+*.spec
+/venv
+/build
+/dist
+/test_AIP
+/Documentation
+/aip_ressources
